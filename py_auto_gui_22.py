@@ -8,7 +8,7 @@ while True:
     if "space" in data:
         print("space")
     pyautogui.keyDown('space')
-    time.sleep(4 )
+    time.sleep(4    )
     pyautogui.press('space')
 print("done")
 
